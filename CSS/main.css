@@ -1,6 +1,9 @@
-.red{
-	background-color: red;
+body{
+	background: navy !important;
 }
-.blue{
-	background-color: blue;
+div pre{
+	color:white;
+}
+div.bg-warning pre{
+	color:black;
 }
